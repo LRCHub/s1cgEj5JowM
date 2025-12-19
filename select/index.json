@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "帰り道は遠回りしたくなる",
+  "base_artist": "乃木坂46",
+  "createdAt": "2025-12-19T16:21:29.592246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "帰り道は遠回りしたくなる",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_帰り道は遠回りしたくなる_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "帰り道は遠回りしたくなる",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_帰り道は遠回りしたくなる_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "帰り道は遠回りしたくなる",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_帰り道は遠回りしたくなる_乃木坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "帰り道は遠回りしたくなる",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_帰り道は遠回りしたくなる_乃木坂46.txt"
+    }
+  ]
+}
