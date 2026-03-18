@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "帰り道は遠回りしたくなる",
   "base_artist": "乃木坂46",
-  "createdAt": "2025-12-19T16:21:29.592246Z",
+  "createdAt": "2026-03-18T20:28:22.045222Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "乃木坂46",
       "has_synced": false,
       "path": "select/pl_01_帰り道は遠回りしたくなる_乃木坂46.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "帰り道は遠回りしたくなる",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/localdb_01_帰り道は遠回りしたくなる_乃木坂46.txt",
+      "repo_name": "s1cgEj5JowM"
     }
   ]
 }
